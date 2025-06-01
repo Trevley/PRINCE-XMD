@@ -5,7 +5,7 @@
 <a><img src='https://files.catbox.moe/v2fbec.jpeg'/></a>
 
 <p align="center">
-  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-NEXUS%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/PRINCETECH19/PRINCE-XMD"><img title="Developer" src="https://img.shields.io/badge/Author-PRINCE%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center"
