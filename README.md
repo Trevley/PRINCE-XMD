@@ -6,7 +6,7 @@
 
 
 <sub>âžŒ QR CODE (Session ID):</sub>  
-[![](https://img.shields.io/badge/-Generate%20Session-CC00FF?style=for-the-badge&logo=codepen)](https://session-bmb-code.onrender.com/pair)
+[![](https://img.shields.io/badge/-Generate%100Session-CC00FF?style=for-the-badge&logo=codepen)](https://session-bmb-code.onrender.com/pair)
 
 ---
 
