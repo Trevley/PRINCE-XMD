@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/loftxmd23/LOFT-XMD-S24">
-    <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-ff69b4?style=for-the-badge&logo=heroku&logoColor=green&labelColor=ff69b4&color=ff69b4" width="230" height="45.1"/>
+    <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-ff69b4?style=for-the-badge&logo=heroku&logoColor=green&labelColor=ff69b4&color=800000" width="230" height="45.1"/>
   </a>
 </div>
 
