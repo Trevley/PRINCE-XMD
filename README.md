@@ -30,8 +30,8 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
     <img src="https://img.shields.io/badge/CONTACT ME -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" width="250">
   </a>
  
- ## SUPPORT CHANNEL
+ ## SUPPORT CHANNEL JOIN
 
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-XMD">
-    <img src="https://img.shields.io/badge/CHANNEL-25D366?style=for-the-badge&logo=heroku&logoColor=blue" width="250">
+    <img src="https://img.shields.io/badge/CHANNEL -25D366?style=for-the-badge&logo=heroku&logoColor=blue" width="200">
   </a>
