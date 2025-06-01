@@ -47,7 +47,7 @@ cmd({
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363305273910720@newsletter',
+                newsletterJid: '120363398106360290@newsletter',
                 newsletterName: config.OWNER_NAME,
                 serverMessageId: 143
             }
@@ -427,7 +427,7 @@ cmd({
                                 await conn.sendMessage(
                                     senderID,
                                     {
-                                        image: { url: config.MENU_IMAGE_URL || 'https://i.ibb.co/4ZSYvPTq/lordali.jpg' },
+                                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/v2fbec.jpeg' },
                                         caption: selectedMenu.content,
                                         contextInfo: contextInfo
                                     },
