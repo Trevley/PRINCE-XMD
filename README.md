@@ -21,12 +21,9 @@
 
 ---
 
-## ¡ HOW TO DEPLOY PRINCE XMD
+## FORK AND STAR PRINCE XMD
 
-<div align="center">
 
-### ðŸ”¹ Step 1: FORK AND STAR
-Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
 
 [![FORK](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
 [![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/stargazers)
