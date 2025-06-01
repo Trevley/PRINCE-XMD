@@ -1,4 +1,4 @@
-<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">”°WELCOME TO PRINCE-XMD”°</h2>
+<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">WELCOME TO PRINCE-XMD</h2>
 <h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot from Tanzania</h3>
 
 <p align="center">
