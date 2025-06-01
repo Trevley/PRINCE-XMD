@@ -47,7 +47,8 @@
   <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
     <img src="https://img.shields.io/badge/DEPLOY HEROKU-25D366?style=for-the-badge&logo=heroku&logoColor=white" width="250">
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C">
+  <a href="https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)]
+    width="250">
    
 ## CONTACT WITH OWNER    
   <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=green" width="250">
