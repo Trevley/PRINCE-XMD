@@ -42,10 +42,12 @@
 
 <p align="center">
   <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
-    <img src="https://img.shields.io/badge/JOIN_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
+    <img src="https://img.shields.io/badge/JOIN_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=green" width="250">
   </a>
   <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C">
-    <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
+   
+## CONTACT WITH OWNER    
+  <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=green" width="250">
   </a>
 </p>
 
@@ -53,5 +55,4 @@
 
 <h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">## OFFICIAL RELEASE v3.0 </h3>
 
-## IMPORTANCE NOTICE
-```diff- REDISTRIBUTION STRICTLY PROHIBITED+ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION! VIOLATORS WILL BE BLACKLISTED
+
