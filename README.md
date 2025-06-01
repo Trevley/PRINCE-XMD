@@ -23,11 +23,11 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
     <img src="https://img.shields.io/badge/DEPLOY ON HEROKU -FFFFFF?style=for-the-badge&logo=heroku&logoColor=blue" width="250">
   </a>
 
-  ## CONTACT WITH OWNER
+  ## DEVELOPER
   <p align="center">
   <a href="https://wa.me/qr/HOUEYFRKCEGPH1">
-    <img src="https://img.shields.io/badge/OWNER -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
+    <img src="https://img.shields.io/badge/owner -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="200">
   </a>
- --------
-
+ 
+-----------
  #SUPPORT CHANNEL
