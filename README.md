@@ -5,12 +5,6 @@
 
 
 
-<!-- Glowing Header -->
-<p align="center">
-  <img src="https://files.catbox.moe/u0cfgo.jpeg" height="40" width="100%">
-</p>
-
-
 </h1>
 
 <p align="center">
