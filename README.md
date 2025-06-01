@@ -52,7 +52,7 @@ Easily deploy to Heroku with the button below:
 
 ---
 
-## ðŸŒ Join The Community
+## JOIN IN OUR CHANNEL
 
 <p align="center">
   <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
