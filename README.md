@@ -45,15 +45,9 @@
   <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C
 
 
--------------
+------------
 
-### DEPLOY ON HEROKU
-
-[![DEPLOY]
-
----
-
-## JOIN IN OUR CHANNEL
+## DEPLOY ON HEROKU
 
 <p align="center">
   <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
