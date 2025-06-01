@@ -37,9 +37,9 @@ cmd({
 ┃◈├ PRINCE-XMD
 ┃◈╰─┬────────────●●►
 ┃◈╭─┴────────────●●►
-┃◈├•ʀᴇᴘʟʏ ᴛʜᴇ ɴᴜᴍʙᴇʀ sᴇʟᴇᴄᴛ
+┃◈├PRINCE TECH
 ┃◈╰──────────────●●►
-✩░▒▓▆▅▃▂▁PRINCE▁▂▃▅▆▓▒░✩〕
+✩💻PRINCE💻✩〕
 > ${config.DESCRIPTION}`;
 
         const contextInfo = {
@@ -59,7 +59,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/lxudmd.jpg' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/u0cfgo.jpeg' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
