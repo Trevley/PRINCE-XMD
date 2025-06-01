@@ -1,14 +1,72 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFD700&center=true&width=1009&height=200&lines=PRINCE-XMD" alt="Typing SVG" /></a>
   </div>
 
-  ![_4bf4bb40-019d-4466-be8c-716910fd109f](https://github.com/user-attachments/assets/655345d0-9a8f-4d35-97c3-6e06504d98f1)
+  
 
 
 
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-<br>
-   <a href='https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-XMD' target="_blank">
-      <img alt='Deploy on Heroku' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/>
-   </a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=âš¡+BWM+XMD+QUANTUM+VERSION;ðŸ”¥+The+Most+Powerful+WhatsApp+Bot;ðŸ’»+Crafted+by+Ibrahim+Adams;ðŸš€+Next-Gen+Quantum+Technology;ðŸŒˆ+Fast+âš¡+Secure+ðŸ”’+Reliable+âœ…" alt="Typing Animation">
+</h1>
 
-m
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+<!-- Banner Image -->
+<p align="center">
+  <a href="https://files.catbox.moe/c07f3s.jpeg">
+    <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto">
+  </a>
+</p>
+
+<!-- Action Buttons -->
+<p align="center">
+  <a href="https://www.ibrahimadams.site/scanner">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/ðŸ”‘_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  </a>
+  
+  <a href="https://www.ibrahimadams.site/Deploy">
+    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/ðŸš€_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/ðŸš€_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
+  
+  <a href="https://ibrahimadams.site/Panel_files">
+    <img title="GET PANEL FILES" src="https://img.shields.io/badge/ðŸ“_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://railway.app?referralCode=AqkNn4">
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/ðŸš€_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
+  </a>
+</p>
+
+<!-- Referral Code -->
+<p align="center">
+  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
+</p>
+
+<!-- Glowing Footer -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=ðŸ’Ž+BWM+XMD+Quantum+Edition+by+Ibrahim+Adams;âš¡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+</h3>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
