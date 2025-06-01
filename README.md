@@ -1,13 +1,5 @@
 
 
-![4c5404db-04d6-48cf-abdb-dc825ddacbd0](https://github.com/user-attachments/assets/6d589daa-4c6d-45dd-8cf6-2258b2a674b7)
-
-
-
-
-
-
-
 
 
 <div align="center">
@@ -29,7 +21,7 @@
 
 <div align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/loftxmd23/LOFT-XMD-S24">
-    <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-ff69b4?style=for-the-badge&logo=heroku&logoColor=white&labelColor=ff69b4&color=ff69b4" width="230" height="38.1"/>
+    <img title="DEPLOY ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-ff69b4?style=for-the-badge&logo=heroku&logoColor=green&labelColor=ff69b4&color=ff69b4" width="230" height="38.1"/>
   </a>
 </div>
 
