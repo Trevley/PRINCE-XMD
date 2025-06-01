@@ -10,8 +10,7 @@
   <img src="https://files.catbox.moe/u0cfgo.jpeg" height="40" width="100%">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=âš¡+BWM+XMD+QUANTUM+VERSION;ðŸ”¥+The+Most+Powerful+WhatsApp+Bot;ðŸ’»+Crafted+by+Ibrahim+Adams;ðŸš€+Next-Gen+Quantum+Technology;ðŸŒˆ+Fast+âš¡+Secure+ðŸ”’+Reliable+âœ…" alt="Typing Animation">
+
 </h1>
 
 <p align="center">
@@ -21,7 +20,7 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://files.catbox.moe/c07f3s.jpeg">
-    <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto">
+    <img src="https://files.catbox.moe/u0cfgo.jpeg" width="100%" height="auto">
   </a>
 </p>
 
