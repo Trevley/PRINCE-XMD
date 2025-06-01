@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓 User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet msela-chui  WhatsApp Bot.\n\n *Thanks for using msela-chui \ud83d\udea9* \n\n> \n\n- *YOUR PREFIX:* = ${prefix}\n\nhttps://github.com/Mselachui03/MSELA-CHUI-BOT Dont forget to give star to repo ⬇️\n\nhttps://github.com/Mselachui03/MSELA-CHUI-BOT\n\n> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-TEACH \ud83d\udda4`;
+  let up = `*👋🏻 👋🏻 👋🏻 HELLO PRINCE XMD USER🌚! \ud83d\udc4b\ud83c\udffb* \n\n> FASTER , SAFE TO USE UNBAN WHATSAPP \ud83c\udf8a, Meet msela-chui  WhatsApp Bot.\n\n *THANKS FOR USE PRINCE XMD-ch\ud83d\udea9* \n\n> \n\n- *YOUR PREFIX:* = ${prefix}\n\nhttps://github.com/majidi50/PRINCE-XMD- Dont forget to give star to repo 🖱️\n\nhttps://github.com/majidi50/PRINCE-XMD-\n\n> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-TEACH \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/lxudmd.jpg` }, caption: up })
   }
   })
