@@ -22,7 +22,14 @@
 
 ### GETTING SESSION ID HERE
 
-[![SCAN QR](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-md-sessions.onrender.com/wasiqr) 
+ 
+## SESSION ID
+
+<p align="center">
+  <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
+    <img src="https://img.shields.io/badge/SESSION ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=render" width="250">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C
 
 ---------------
 
@@ -32,7 +39,7 @@
 
 ### DEPLOY ON HEROKU
 
-[![DEPLOY](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/PRINCETECH19/PRINCE-XMD/)
+[![DEPLOY](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=heroku)](https://github.com/PRINCETECH19/PRINCE-XMD/)
 
 </div>
 
