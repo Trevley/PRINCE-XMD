@@ -119,8 +119,8 @@ ${config.DESCRIPTION}`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363305273910720@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐓EACH 🐯',
+                    newsletterJid: '120363398106360290@newsletter',
+                    newsletterName: config.OWNER_NAME || 'PRINCE TECH',
                     serverMessageId: 143
                 }
             }
