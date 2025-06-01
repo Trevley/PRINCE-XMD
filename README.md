@@ -27,7 +27,7 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
   
    <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-XMD">
-    <img src="https://img.shields.io/badge/CONTACT ME -FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=blue" width="250">
+    <img src="https://img.shields.io/badge/CONTACT ME -FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=black" width="250">
   </a>
  
  #SUPPORT CHANNEL
