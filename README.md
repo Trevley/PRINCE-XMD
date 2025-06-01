@@ -8,24 +8,13 @@
 <p align="center">
   <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/whro2x.jpeg">
 </p>
-
-##  GITHUB STATUS
-<p align="center">
-  <a href="https://github.com/PRINCETECH19/PRINCE-XMD">
-    <img src="https://github-readme-stats.vercel.app/api?username=PRINCE XMD&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCE&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
-
-  
-  </a> 
-</p>
-
----
+------------
 
 ## FORK AND STAR PRINCE XMD
 
 
 
-[![FORK](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
+[![FORK](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=render)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
 [![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/stargazers)
 
 
