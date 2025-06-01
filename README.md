@@ -9,7 +9,7 @@
   <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/whro2x.jpeg">
 </p>
 
-##  GitHub Stats
+##  GITHUB STATUS
 <p align="center">
   <a href="https://github.com/PRINCETECH19/PRINCE-XMD">
     <img src="https://github-readme-stats.vercel.app/api?username=PRINCE XMD&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
@@ -21,14 +21,14 @@
 
 ---
 
-## ¡ How to Deploy in 3 Simple Steps
+## ¡ HOW TO DEPLOY PRINCE XMD
 
 <div align="center">
 
-### ðŸ”¹ Step 1: Fork & Star This Repo
+### ðŸ”¹ Step 1: FORK AND STAR
 Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
 
-[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
+[![FORK](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
 [![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/stargazers)
 
 
