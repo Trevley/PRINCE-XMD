@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot from Tanzania</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=90&height=100&lines=HELLO+WORLD!‘‹;MEET+PRINCE-XMD+ðŸ¤–;ADVANCED+WHATSAPP+BOT+EXPERIENCE+âš¡;MADE+WITH+PASSION+BY+PRINCE+XMD’»;OFFICIALLY+TANZANIAN+BOT+‰" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=500&height=100&lines=HELLO+WORLD!‘‹;MEET+PRINCE-XMD+ðŸ¤–;ADVANCED+WHATSAPP+BOT+EXPERIENCE+âš¡;MADE+WITH+PASSION+BY+PRINCE+XMD’»;OFFICIALLY+TANZANIAN+BOT+‰" alt="Typing Animation">
 </p>
 
 <p align="center">
