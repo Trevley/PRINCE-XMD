@@ -7,4 +7,4 @@
 
 ## FORK AND STAR FOR SUPPORT
 <a
-href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="PRINCE-XMD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="PRINCE-XMD" src="https://img.shields.io/badge/FORK-PRINCE%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
