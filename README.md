@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/whro2x.jpeg">
+  <img alt="PINCE-XMD" width="700" height="300" src="https://files.catbox.moe/whro2x.jpeg">
 </p>
-------------
+----------------------
 
 ## FORK AND STAR PRINCE XMD
 
@@ -18,11 +18,13 @@
 [![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/stargazers)
 
 
----
+--------
 
 ### GETTING SESSION ID HERE
 
 [![SCAN QR](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-md-sessions.onrender.com/wasiqr) 
+
+---------------
 
 [![PAIR SESSION](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://dml0-md-session.onrender.com)
 
@@ -49,10 +51,7 @@
 
 ---
 
-<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">âš¡ OFFICIAL RELEASE v3.0 âš¡</h3>
+<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">## OFFICIAL RELEASE v3.0 </h3>
 
-## âš ï¸ Important Notice
-```diff
-- REDISTRIBUTION STRICTLY PROHIBITED
-+ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION
-! VIOLATORS WILL BE BLACKLISTED
+## IMPORTANCE NOTICE
+```diff- REDISTRIBUTION STRICTLY PROHIBITED+ OFFICIAL SUPPORT ONLY FOR ORIGINAL VERSION! VIOLATORS WILL BE BLACKLISTED
