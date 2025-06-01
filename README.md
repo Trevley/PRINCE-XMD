@@ -53,6 +53,6 @@
 
 ---
 
-<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">## OFFICIAL RELEASE v3.0 </h3>
+<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;"> </h3>
 
 
