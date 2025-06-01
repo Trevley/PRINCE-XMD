@@ -1,11 +1,5 @@
 
 
-
-![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=100&pause=1000&color=FF69B4&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)
-
-
-#        LOFT-XMD S24 ©2025
-
 ![4c5404db-04d6-48cf-abdb-dc825ddacbd0](https://github.com/user-attachments/assets/6d589daa-4c6d-45dd-8cf6-2258b2a674b7)
 
 
