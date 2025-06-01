@@ -49,9 +49,7 @@
 
 ### DEPLOY ON HEROKU
 
-[![DEPLOY](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=heroku)](https://github.com/PRINCETECH19/PRINCE-XMD/)
-
-</div>
+[![DEPLOY]
 
 ---
 
