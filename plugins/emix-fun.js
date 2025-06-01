@@ -7,7 +7,7 @@ cmd({
     pattern: "emix",
     desc: "Combine two emojis into a sticker.",
     category: "fun",
-    react: "😃",
+    react: "😁",
     use: ".emix 😂,🙂",
     filename: __filename,
 }, async (conn, mek, m, { args, q, reply }) => {
