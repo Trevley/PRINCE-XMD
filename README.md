@@ -19,7 +19,7 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
  ## DEPLOY ON HEROKU 
 
    <p align="center">
-  <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-XMD">
     <img src="https://img.shields.io/badge/DEPLOY ON HEROKU -25D366?style=for-the-badge&logo=heroku&logoColor=white" width="250">
   </a>
 
