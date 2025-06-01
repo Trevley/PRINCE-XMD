@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/Mselachui03/MSELA-CHUI-BOT';
+    const githubRepoURL = 'https://github.com/PRINCETECH19/PRINCE-XMD';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -172,15 +172,15 @@ ${repoData.description || 'No description provided'}
 
         // Send image with repo info
         await conn.sendMessage(from, {
-            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/15vem5.jpg' },
+            image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/v2fbec.jpeg' },
             caption: selectedStyle,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363305273910720@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓',
+                    newsletterJid: '120363398106360290@newsletter',
+                    newsletterName: config.OWNER_NAME || 'PRINCE XMD',
                     serverMessageId: 143
                 }
             }
