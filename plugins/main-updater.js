@@ -16,7 +16,7 @@ cmd({
     if (!isOwner) return reply("This command is only for the bot owner.");
 
     try {
-        await reply("🐯 Checking for 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓 updates...");
+        await reply("🐯 Checking for PRINCE XMD updates...");
 
         // Fetch the latest commit hash from GitHub
         const { data: commitData } = await axios.get("https://api.github.com/repos/Mselachui03/MSELA-CHUI-BOT/commits/main");
