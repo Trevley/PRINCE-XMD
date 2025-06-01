@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/Mselachui03/MSELA-CHUI-BOT/main/data/version.json';
+    const rawVersionUrl = 'https://github.com/PRINCETECH19/PRINCE-XMD/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
