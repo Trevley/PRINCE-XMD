@@ -34,8 +34,7 @@ Help support the project by clicking the buttons below. Fork it to your GitHub a
 
 ---
 
-### ðŸ”¹ Step 2: Generate Session ID
-You need a session to connect your bot. Choose your preferred method:
+### GETTING SESSION ID HERE
 
 [![SCAN QR](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-md-sessions.onrender.com/wasiqr) 
 
@@ -43,8 +42,7 @@ You need a session to connect your bot. Choose your preferred method:
 
 ---
 
-### ”¹ Step 3: Deploy with One Click
-Easily deploy to Heroku with the button below:
+### DEPLOY ON HEROKU
 
 [![DEPLOY](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/PRINCETECH19/PRINCE-XMD/)
 
