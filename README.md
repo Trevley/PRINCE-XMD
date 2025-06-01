@@ -13,7 +13,7 @@
 ## FORK AND STAR PRINCE XMD
 
 
-[![FORK](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
+[![FORK](https://img.shields.io/github/forks/PRINCE XMD?label=Fork&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
 [![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/stargazers)
 
 
