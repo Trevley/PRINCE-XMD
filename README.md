@@ -12,7 +12,7 @@
 ##  GitHub Stats
 <p align="center">
   <a href="https://github.com/PRINCETECH19/PRINCE-XMD">
-    <img src="https://github-readme-stats.vercel.app/api?username=PRONCE XMD&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=PRINCE XMD&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCE&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
 
   
@@ -21,15 +21,15 @@
 
 ---
 
-## ðŸ›¡ How to Deploy in 3 Simple Steps
+## ¡ How to Deploy in 3 Simple Steps
 
 <div align="center">
 
 ### ðŸ”¹ Step 1: Fork & Star This Repo
 Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
 
-[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/DML-MD/fork)
-[![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/DML-MD/stargazers)
+[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/PRINCETECH19/PRINCE-XMD/fork)
+[![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/PRINCETECH19/PRINCE-XMD/stargazers)
 
 
 ---
@@ -37,16 +37,16 @@ Help support the project by clicking the buttons below. Fork it to your GitHub a
 ### ðŸ”¹ Step 2: Generate Session ID
 You need a session to connect your bot. Choose your preferred method:
 
-[![Scan QR Code](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-md-sessions.onrender.com/wasiqr) 
+[![SCAN QR](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-md-sessions.onrender.com/wasiqr) 
 
-[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://dml0-md-session.onrender.com)
+[![PAIR SESSION](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://dml0-md-session.onrender.com)
 
 ---
 
-### ðŸ”¹ Step 3: Deploy with One Click
+### ”¹ Step 3: Deploy with One Click
 Easily deploy to Heroku with the button below:
 
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dml-bot.vercel.app/)
+[![DEPLOY](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/PRINCETECH19/PRINCE-XMD/)
 
 </div>
 
