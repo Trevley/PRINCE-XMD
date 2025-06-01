@@ -2,9 +2,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=500&lines=+PRINCE-XMD-;IS+THE+UPDATE+VERSION;FROM-TANZANIA;BEST+MULTI+DEVICE+BOT;CREATED+BY+PRINCE+TECH" alt="Typing SVG" /></a>
   </p>
-
-
-
 ---------
 ![_f136c9c7-1a46-4a56-a7c4-9bb3a055ff09](https://github.com/user-attachments/assets/27f56153-976a-4ec3-bcee-af07f42897db)
 
