@@ -26,7 +26,7 @@
 
 ---------------
 
-[![PAIR SESSION](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://dml0-md-session.onrender.com)
+[![PAIR SESSION](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=render)](https://dml0-md-session.onrender.com)
 
 ---
 
