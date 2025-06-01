@@ -20,7 +20,7 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
 ## SESSION SEVER
   
   <p align="center">
-  <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
+  <a href="https://tohid-ai-web-pair-3.onrender.com">
     <img src="https://img.shields.io/badge/SESSION ID HERE .2-25D366?style=for-the-badge&logo=render&logoColor=white" width="250">
   </a>
 
