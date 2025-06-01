@@ -15,7 +15,4 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
   <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
     <img src="https://img.shields.io/badge/SESSION ID HERE .1-25D366?style=for-the-badge&logo=render&logoColor=white" width="250">
   </a>
-  <a href="https:">
-    <img src="https://img.shields.io/badge/SESSION 1-075E54?style=for-the-badge&logo=render&logoColor=white" width="250">
-  </a>
-</p>
+  
