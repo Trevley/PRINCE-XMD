@@ -1,8 +1,8 @@
-<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">ðŸ”°WELCOME TO DML-MDðŸ”°</h2>
-<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot for Tanzania</h3>
+<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">”°WELCOME TO PRINCE-XMD”°</h2>
+<h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot from Tanzania</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+ðŸ‘‹;MEET+DML-MD+ðŸ¤–;ADVANCED+WHATSAPP+BOT+EXPERIENCE+âš¡;MADE+WITH+PASSION+BY+DML+ðŸ’»;OFFICIALLY+TANZANIAN+BOT+ðŸŽ‰" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6347&center=true&width=900&height=100&lines=HELLO+WORLD!+ðŸ‘‹;MEET+DML-MD+ðŸ¤–;ADVANCED+WHATSAPP+BOT+EXPERIENCE+âš¡;MADE+WITH+PASSION+BY+PRINCE+XMD’»;OFFICIALLY+TANZANIAN+BOT+ðŸŽ‰" alt="Typing Animation">
 </p>
 
 <p align="center">
