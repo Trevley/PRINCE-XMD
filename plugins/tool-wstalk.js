@@ -33,7 +33,7 @@ async (conn, mek, m, { from, reply, args }) => {
 ┃◈┃• *📝 Description*: ${data.description.replace(/\n/g, '\n┃◈┃• ')}
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓`;
+> POWERED BY PRINCE XMD`;
 
         // Send message with channel image
         await conn.sendMessage(from, {
