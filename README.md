@@ -3,6 +3,7 @@
   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=PRINCE-XMD" alt="Typing SVG" /></a>
   </div>
 <a><img src='https://files.catbox.moe/v2fbec.jpeg'/></a>
+-------------------
 
 <p align="center">
   <a href="https://github.com/PRINCETECH19/PRINCE-XMD"><img title="Developer" src="https://img.shields.io/badge/Author-PRINCE%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
@@ -15,7 +16,7 @@
 ## FORK AND STAR FOR SUPPORT
 <a
 href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" src="https://img.shields.io/badge/FORK-PRINCE%20XMD-BOTh?color=indigo&style=for-the-badge&logo=github"></a>
-
+--------------
 ## SESSION SEVER
   
   <p align="center">
