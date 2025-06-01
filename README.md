@@ -19,12 +19,13 @@
 
 --------
 
-### GETTING SESSION ID HERE
+### SESSION ID 1
  -------
 ## SESSION ID .1
 
-<p align="center">
-  <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
+  <img src="https://img.shields.io/badge/SESSION ID-25D366?style=for-the-badge&logo=render&logoColor=render" width="200">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C
 
 ------------
 ## SESSION ID .2
