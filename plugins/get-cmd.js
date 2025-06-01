@@ -39,19 +39,19 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓* 🐯`;
+*POWERED BY PRINCE XMD`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/15vem5.jpg` },  // Image URL
+            image: { url: `https://files.catbox.moe/v2fbec.jpeg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363305273910720@newsletter',
-                    newsletterName: '𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐓𝐄𝐂𝐇 🐯',
+                    newsletterJid: '120363398106360290@newsletter',
+                    newsletterName: 'PRINCE XMD',
                     serverMessageId: 143
                 }
             }
