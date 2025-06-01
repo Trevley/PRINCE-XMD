@@ -114,7 +114,7 @@ const port = process.env.PORT || 9090;
   console.log('Bot connected to whatsapp ✅')
   
   let up = `*👋🏻 👋🏻 👋🏻 HELLO PRINCE XMD USER🌚! \ud83d\udc4b\ud83c\udffb* \n\n> FASTER , SAFE TO USE UNBAN WHATSAPP \ud83c\udf8a, MEET PRINCE XMD  WhatsApp Bot.\n\n *THANKS FOR USE PRINCE XMD-ch\ud83d\udea9* \n\n> \n\n- *YOUR PREFIX:* = ${prefix}\n\nhttps://github.com/PRINCETECH19/PRINCE-XMD- Dont forget to give star to repo 🖱️\n\nhttps://github.com/PRINCETECH19/PRINCE-XMD-\n\n> POWERED BY PRINCE-TECH \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/lxudmd.jpg` }, caption: up })
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/v2fbec.jpeg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
