@@ -9,11 +9,11 @@
   <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/vcdwmp.jpg">
 </p>
 
-## ðŸ“Š GitHub Stats
+##  GitHub Stats
 <p align="center">
-  <a href="https://github.com/MLILA17/DML-MD">
-    <img src="https://github-readme-stats.vercel.app/api?username=MLILA17&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MLILA17&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
+  <a href="https://github.com/PRINCETECH19/PRINCE-XMD">
+    <img src="https://github-readme-stats.vercel.app/api?username=PRONCE XMD&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCE&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
 
   
   </a> 
