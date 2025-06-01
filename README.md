@@ -21,7 +21,7 @@
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://www.ibrahimadams.site/scanner">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/”‘_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=render&logoColor=white&color=skyblue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/_GET_SESSION-000000?style=for-the-badge&logo=render&logoColor=blue&color=skyblue" width="260" height="50"/>
   </a>
   
   <a href="https://www.ibrahimadams.site/Deploy">
