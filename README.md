@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/cz46m1.jpeg">
+  <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/whro2x.jpeg">
 </p>
 
 ##  GitHub Stats
