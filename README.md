@@ -1,4 +1,4 @@
-**GET SESSION ID HER BELOW**
+**GET SESSION ID HERE BELOW**
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-
+**DEPLOY ON HEROKU**
 
 
 <div align="center">
