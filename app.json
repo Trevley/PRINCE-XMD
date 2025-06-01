@@ -1,7 +1,7 @@
 {
   "name": "PRINCE XMD",
   "description": "Javascript WhatsApp bot made by PRINCE TECH",
-  "logo": "https://files.catbox.moe/u0cfgo.jpeg",
+  "logo": "https://files.catbox.moe/v2fbec.jpeg",
   "keywords": ["PRINCE XMD"],
   "success_url": "/",
 
@@ -92,14 +92,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": ""
+      "value": "255623672733"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐌𝐒𝐄𝐋𝐀-𝐂𝐇𝐔𝐈-𝐁𝐎𝐓"
+      "value": "PRINCE XMD"
 
       }, 
 
@@ -132,7 +132,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/lxudmd.jpg"
+      "value": "https://files.catbox.moe/v2fbec.jpeg"
     },
     
      "DESCRIPTION": {
@@ -175,7 +175,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🐯,🇹🇿"
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🙄,🇹🇿"
     }, 
     
     "ANTI_DEL_PATH": {
