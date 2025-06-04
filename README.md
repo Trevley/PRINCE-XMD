@@ -27,7 +27,7 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
  ## DEPLOY ON HEROKU 
 
    <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-XMD">
+  <a href="https://dashboard.heroku.com/new?template=https://deploy-heroku-two.vercel.app/">
     <img src="https://img.shields.io/badge/DEPLOY ON HEROKU -FFFFFF?style=for-the-badge&logo=heroku&logoColor=blue" width="250">
   </a>
 
