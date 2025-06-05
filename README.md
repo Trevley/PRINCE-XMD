@@ -40,8 +40,7 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
 
  ## DEPLOY RENDER
  
-<a href="https://render.com" target="_blank"><img title="DEPLOY-ON RENDER" src="https://img.shields.io/badge/DEPLOY%20ON%20RENDER-bkue"" alt="Heroku" width="300"></a>
-</p>
+SOOON
 
 
   ## DEVELOPER
