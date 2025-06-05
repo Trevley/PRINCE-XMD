@@ -32,18 +32,9 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
    
   </a>
 
-<p style="text-align: center; font-size: 1.2em;">
-
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=300 height=50/p></a>
-
-
-# **FILE ZIP**</h4>
-<p style="text-align: center; font-size: 1.2em;">
-  
-<p align="">
-<a href='https://github.com/PRINCETECH19/PRINCE-XMD-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-download zip-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=300 height=28/p></a> </a>
-<a><img
+<a href="https://dashboard.katabump.com/auth/login#fa7e97" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+</a>
 
 
 
