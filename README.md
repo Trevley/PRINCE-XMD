@@ -32,6 +32,15 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
    
   </a>
 
+<p align="left">
+<a href="https://render-phi-two.vercel.app/" target="_blank"><img title="DEPLOY-ON RENDER" src="https://img.shields.io/badge/DEPLOY%20ON%20RENDER-blue"" alt="Heroku" width="300"></a>
+</p>
+
+
+
+
+  
+
   ## DEVELOPER
   
    <p align="center">
