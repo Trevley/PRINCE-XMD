@@ -34,11 +34,14 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
 -------
 <a href="https://dashboard.katabump.com/auth/login#fa7e97" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
-  width="250">
+  
 </a>
 
 ------------
 
+<p align="left">
+<a href="https://dashboard.katabump.com/auth/login#fa7e97" target="_blank"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white"" alt="Heroku" width="300"></a>
+</p>
   
 
   ## DEVELOPER
