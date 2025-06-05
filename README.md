@@ -31,12 +31,12 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
 </p>
    
   </a>
-
+-------
 <a href="https://dashboard.katabump.com/auth/login#fa7e97" target="_blank">
   <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
 
-
+------------
 
   
 
