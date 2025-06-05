@@ -35,8 +35,15 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
 <p style="text-align: center; font-size: 1.2em;">
 
 <p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=50/p></a>
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=300 height=50/p></a>
 
+
+# **FILE ZIP**</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://github.com/PRINCETECH19/PRINCE-XMD-xmd1/archive/refs/heads/main.zip' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-download zip-CC00FF?style=for-the-badge&logo=downloadzip&logoColor=white'/< width=300 height=28/p></a> </a>
+<a><img
 
 
 
