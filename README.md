@@ -32,9 +32,10 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
    
   </a>
 
-<p align="left">
-<a href="https://render-phi-two.vercel.app/" target="_blank"><img title="DEPLOY-ON RENDER" src="https://img.shields.io/badge/DEPLOY%20ON%20RENDER-blue"" alt="Heroku" width="300"></a>
-</p>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="center">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=50/p></a>
 
 
 
