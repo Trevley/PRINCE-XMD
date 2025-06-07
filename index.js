@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['255654667145']
+  const ownerNumber = ['255623672733']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -113,7 +113,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello👋🏻 KINGDOM-MD User😀 \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet KINGDOM-MD  WhatsApp Bot.\n\n *Thanks for using KINGDOM-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- 🙂\n \nhttps://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Anzad378/KINGDOM-MD\n\n> 👋🏻POWERED BY KINGDOM MD \ud83d\udda4`;
+  let up = `*Hello👋🏻 PRINCE-XMD User😀 \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet KINGDOM-MD  WhatsApp Bot.\n\n *Thanks for using KINGDOM-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- 🙂\n \nhttps://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Anzad378/KINGDOM-MD\n\n> 👋🏻POWERED BY KINGDOM MD \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/0kwukb.jpg` }, caption: up })
   }
   })
@@ -201,7 +201,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('255654667145', '255654667145', '255654667145');
+    const jawad = ('255623672733', '255623672733', '255623672733');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
