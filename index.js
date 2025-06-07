@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("KINGDOM-MD~", '');
+const sessdata = config.SESSION_ID.replace("PRINCE-XMD~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -113,8 +113,8 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello👋🏻 PRINCE-XMD User😀 \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet PRINCE-XMD  WhatsApp Bot.\n\n *Thanks for using PRINCE-XMD \ud83d\udea9* \n\n> Join WhatsApp Channel :- 🙂\n \nhttps://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/Anzad378/KINGDOM-MD\n\n> 👋🏻POWERED BY KINGDOM MD \ud83d\udda4`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/0kwukb.jpg` }, caption: up })
+  let up = `*Hello👋🏻 PRINCE-XMD User😀 \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet PRINCE-XMD  WhatsApp Bot.\n\n *Thanks for using PRINCE-XMD \ud83d\udea9* \n\n> Join WhatsApp Channel :- 🙂\n \nhttps://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/PRINCETECH19/PRINCE-XMD\n\n> 👋🏻POWERED BY PRINCE XMD \ud83d\udda4`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/v2fbec.jpeg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
