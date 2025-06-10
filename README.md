@@ -18,9 +18,6 @@
 
  ## DEPLOY ON HEROKU 
 
-<p align="left">
-<a href="https://deploy-heroku-two.vercel.app/" target="_blank"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white"" alt="Heroku" width="300"></a>
-</p>
    
   
 
