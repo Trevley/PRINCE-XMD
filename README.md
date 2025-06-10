@@ -29,7 +29,7 @@
   ## DEVELOPER
   <p align="center">
   <a href="https://wa.me/qr/LGUUNLPKBVKSA1?template=https://wa.me/qr/LGUUNLPKBVKSA1">
-    <img src="https://img.shields.io/badge/DEVELOPER-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=blue" width="300">
+    <img src="https://img.shields.io/badge/DEVELOPER-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=blue" width="500">
   </a>
  
  ## SUPPORT CHANNEL JOIN
