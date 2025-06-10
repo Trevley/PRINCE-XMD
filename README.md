@@ -28,7 +28,7 @@
 
   ## DEVELOPER
   <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-MD">
+  <a href="https://wa.me/qr/LGUUNLPKBVKSA1?template=https://wa.me/qr/LGUUNLPKBVKSA1">
     <img src="https://img.shields.io/badge/DEVELOPER-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=blue" width="250">
   </a>
  
