@@ -23,15 +23,13 @@
     <img src="https://img.shields.io/badge/DEPLOY ON HEROKU -FFFFFF?style=for-the-badge&logo=heroku&logoColor=blue" width="250">
   </a>
    
-  
 
 ------
 
   ## DEVELOPER
-  
-   <p align="center">
-  <a href="https://wa.me/qr/HOUEYFRKCEGPH1template=https://wa.me/qr/HOUEYFRKCEGPH1">
-    <img src="https://img.shields.io/badge/CONTACT ME -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" width="250">
+  <p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-MD">
+    <img src="https://img.shields.io/badge/DEVELOPER-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=blue" width="250">
   </a>
  
  ## SUPPORT CHANNEL JOIN
