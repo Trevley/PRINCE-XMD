@@ -21,7 +21,7 @@ href="https://github.com/PRINCETECH19/PRINCE-XMD/fork"><img title="PRINCE-XMD" s
   
   <p align="center">
   <a href="https://website-prince.onrender.com/">
-    <img src="https://img.shields.io/badge/SESSION ID HERE .2-25D366?style=for-the-badge&logo=render&logoColor=white" width="250">
+    <img src="https://img.shields.io/badge/SESSION ID HERE -25D366?style=for-the-badge&logo=render&logoColor=blue" width="250">
   </a>
 
  ## DEPLOY ON HEROKU 
