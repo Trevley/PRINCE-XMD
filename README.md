@@ -2,7 +2,10 @@
 <a
   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADFF2F&center=true&width=1000&height=200&lines=PRINCE-XMD" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://files.catbox.moe/v2fbec.jpeg'/></a>
+
+
+  ![_3677d0b6-cb09-4bbe-b18c-52052520bb96](https://github.com/user-attachments/assets/2ab00a07-9711-4d48-b34c-212e030370ea)
+
 -----------------------------------
 
 <p align="center">
