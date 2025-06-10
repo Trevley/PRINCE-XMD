@@ -9,7 +9,6 @@
 -----------------------------------
 
 
-
 ## SESSION SEVER
   
   <p align="center">
@@ -25,10 +24,7 @@
    
   
 
-------------
-
-
-
+------
 
   ## DEVELOPER
   
@@ -43,4 +39,4 @@
     <img src="https://img.shields.io/badge/CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" width="250">
   </a>
 
-##  THANKS FOR USE MY BOT ALL IN ALL I CREAT MY SELF WITHOUT ANY HELP
+##  POWERED BY PRINCE XMD
