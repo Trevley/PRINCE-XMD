@@ -20,7 +20,7 @@
 
    <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PRINCETECH19/PRINCE-XMD">
-    <img src="https://img.shields.io/badge/DEPLOY ON HEROKU -FFFFFF?style=for-the-badge&logo=heroku&logoColor=blue" width="200">
+    <img src="https://img.shields.io/badge/DEPLOY ON HEROKU -FFFFFF?style=for-the-badge&logo=heroku&logoColor=blue" width="250">
   </a>
    
 
@@ -29,7 +29,7 @@
   ## DEVELOPER
   <p align="center">
   <a href="https://wa.me/qr/LGUUNLPKBVKSA1?template=https://wa.me/qr/LGUUNLPKBVKSA1">
-    <img src="https://img.shields.io/badge/DEVELOPER-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=blue" width="10">
+    <img src="https://img.shields.io/badge/DEVELOPER-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=blue" width="60">
   </a>
  
  ## SUPPORT CHANNEL JOIN
