@@ -35,7 +35,7 @@
  ## SUPPORT CHANNEL JOIN
 
   <a href="https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610template=https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610">
-    <img src="https://img.shields.io/badge/CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" width="250">
+    <img src="https://img.shields.io/badge/CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" width="170">
   </a>
 
 ##  POWERED BY PRINCE XMD
