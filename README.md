@@ -8,14 +8,9 @@
 
 -----------------------------------
 
-<p align="center">
-  <a href="https://github.com/PRINCETECH19/PRINCE-XMD"><img title="Developer" src="https://img.shields.io/badge/Author-PRINCE%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
-</p>
 
-<div align="center"
-------------
 
-# SESSION SEVER
+## SESSION SEVER
   
   <p align="center">
   <a href="https://website-prince.onrender.com/">
@@ -31,10 +26,7 @@
   
 
 ------------
-## DEPLOY KATABUMP
-<p align="left">
-<a href="https://dashboard.katabump.com/auth/login#fa7e97" target="_blank"><img title="DEPLOY-ON KATABUMP" src="https://img.shields.io/badge/DEPLOY%20ON%20KATABUMP-bkue"" alt="Heroku" width="300"></a>
-</p
+
 
 
 
